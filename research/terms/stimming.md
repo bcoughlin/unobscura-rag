@@ -263,118 +263,116 @@ Third, **the community's reclamation of stimming is itself a form of knowledge p
 
 ### Empirical research
 
-Abrahamson, D., Gutierrez, J. F., Charney, R., Hod, Y., Rodán, A., and Shayan, S. (2024). Stimming as thinking: A critical reevaluation of self-stimulatory behavior as an epistemic resource for inclusive education. *Educational Psychology Review*, 36, 104. https://doi.org/10.1007/s10648-024-09904-y
+D. Abrahamson, J. F. Gutierrez, R. Charney, Y. Hod, A. Rodán, and S. Shayan, "Stimming as thinking: A critical reevaluation of self-stimulatory behavior as an epistemic resource for inclusive education," *Educ. Psychol. Rev.*, vol. 36, p. 104, 2024, doi: 10.1007/s10648-024-09904-y.
 
-Ashburner, J., Ziviani, J., and Rodger, S. (2008). Sensory processing and classroom emotional, behavioral, and educational outcomes in children with autism spectrum disorder. *American Journal of Occupational Therapy*, 62(5), 564–573.
+J. Ashburner, J. Ziviani, and S. Rodger, "Sensory processing and classroom emotional, behavioral, and educational outcomes in children with autism spectrum disorder," *Am. J. Occup. Ther.*, vol. 62, no. 5, pp. 564–573, 2008.
 
-Bargiela, S., Steward, R., and Mandy, W. (2016). The experiences of late-diagnosed women with autism spectrum conditions. *Journal of Autism and Developmental Disorders*, 46(10), 3281–3294.
+S. Bargiela, R. Steward, and W. Mandy, "The experiences of late-diagnosed women with autism spectrum conditions," *J. Autism Dev. Disord.*, vol. 46, no. 10, pp. 3281–3294, 2016.
 
-Baumeister, R. F., Bratslavsky, E., Muraven, M., and Tice, D. M. (1998). Ego depletion: Is the active self a limited resource? *Journal of Personality and Social Psychology*, 74(5), 1252–1265.
+R. F. Baumeister, E. Bratslavsky, M. Muraven, and D. M. Tice, "Ego depletion: Is the active self a limited resource?" *J. Pers. Soc. Psychol.*, vol. 74, no. 5, pp. 1252–1265, 1998.
 
-Botha, M., and Frost, D. M. (2020). Extending the minority stress model to understand mental health problems experienced by the autistic population. *Society and Mental Health*, 10(1), 20–34. https://doi.org/10.1177/2156869318804297
+M. Botha and D. M. Frost, "Extending the minority stress model to understand mental health problems experienced by the autistic population," *Soc. Ment. Health*, vol. 10, no. 1, pp. 20–34, 2020, doi: 10.1177/2156869318804297.
 
-Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Ashley, A. S., and Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. *Autism*. https://doi.org/10.1177/13623613241237871
+M. Botha, R. Chapman, M. Giwa Onaiwu, S. K. Kapp, A. S. Ashley, and N. Walker, "The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory," *Autism*, 2024, doi: 10.1177/13623613241237871.
 
-Botha, M., Dibb, B., and Frost, D. M. (2022). "Autism is me": An investigation of how autistic individuals make sense of autism and stigma. *Disability and Society*, 37(3), 427–448.
+M. Botha, B. Dibb, and D. M. Frost, "'Autism is me': An investigation of how autistic individuals make sense of autism and stigma," *Disabil. Soc.*, vol. 37, no. 3, pp. 427–448, 2022.
 
-Bradley, L., Shaw, R., Baron-Cohen, S., and Cassidy, S. (2021). Autistic adults' experiences of camouflaging and its perceived impact on mental health. *Autism in Adulthood*, 3(4), 404–415.
+L. Bradley, R. Shaw, S. Baron-Cohen, and S. Cassidy, "Autistic adults' experiences of camouflaging and its perceived impact on mental health," *Autism Adulthood*, vol. 3, no. 4, pp. 404–415, 2021.
 
-Brandenburg, C., et al. (2020). Increased dopamine type 2 gene expression in the dorsal striatum in individuals with autism spectrum disorder suggests alterations in indirect pathway signaling and circuitry. *Frontiers in Cellular Neuroscience*, 14, 577858. https://doi.org/10.3389/fncel.2020.577858
+C. Brandenburg *et al.*, "Increased dopamine type 2 gene expression in the dorsal striatum in individuals with autism spectrum disorder suggests alterations in indirect pathway signaling and circuitry," *Front. Cell. Neurosci.*, vol. 14, p. 577858, 2020, doi: 10.3389/fncel.2020.577858.
 
-Cassidy, S., Bradley, L., Shaw, R., and Baron-Cohen, S. (2018). Risk markers for suicidality in autistic adults. *Molecular Autism*, 9, 42. https://doi.org/10.1186/s13229-018-0226-4
+S. Cassidy, L. Bradley, R. Shaw, and S. Baron-Cohen, "Risk markers for suicidality in autistic adults," *Mol. Autism*, vol. 9, p. 42, 2018, doi: 10.1186/s13229-018-0226-4.
 
-Charlton, R. A., et al. (2021). "It feels like holding back something you need to say": Autistic and non-autistic adults' accounts of sensory experiences and stimming. *Research in Autism Spectrum Disorders*, 89, 101864.
+R. A. Charlton *et al.*, "'It feels like holding back something you need to say': Autistic and non-autistic adults' accounts of sensory experiences and stimming," *Res. Autism Spectr. Disord.*, vol. 89, p. 101864, 2021.
 
-Dunn, W. (1997). The impact of sensory processing abilities on the daily lives of young children and their families: A conceptual model. *Infants and Young Children*, 9(4), 23–35.
+W. Dunn, "The impact of sensory processing abilities on the daily lives of young children and their families: A conceptual model," *Infants Young Child.*, vol. 9, no. 4, pp. 23–35, 1997.
 
-Ferrara, C. M. (2020). The biochemistry of repetitive behaviors: Endorphins, opioids, and stimming. *Brain Sciences*, 10(5), 289.
+C. M. Ferrara, "The biochemistry of repetitive behaviors: Endorphins, opioids, and stimming," *Brain Sci.*, vol. 10, no. 5, p. 289, 2020.
 
-Gabriele, S., et al. (2014). The hyperserotonemia of autism. *European Neuropsychopharmacology*, 24(9), 1450–1464.
+S. Gabriele *et al.*, "The hyperserotonemia of autism," *Eur. Neuropsychopharmacol.*, vol. 24, no. 9, pp. 1450–1464, 2014.
 
-Grandin, T., and Scariano, M. (1986). *Emergence: Labeled autistic*. Arena Press.
+S. Grossberg and D. Kishnan, "Neural dynamics of autistic repetitive behaviors and fragile X syndrome: Basal ganglia movement gating and mGluR-modulated adaptively timed calcium waves," *Front. Psychol.*, vol. 9, p. 269, 2018, doi: 10.3389/fpsyg.2018.00269.
 
-Grossberg, S., and Kishnan, D. (2018). Neural dynamics of autistic repetitive behaviors and fragile X syndrome: Basal ganglia movement gating and mGluR-modulated adaptively timed calcium waves. *Frontiers in Psychology*, 9, 269. https://doi.org/10.3389/fpsyg.2018.00269
+E. Hollander *et al.*, "Striatal volume on magnetic resonance imaging and repetitive behaviors in autism," *Biol. Psychiatry*, vol. 58, no. 3, pp. 226–232, 2005.
 
-Hollander, E., et al. (2005). Striatal volume on magnetic resonance imaging and repetitive behaviors in autism. *Biological Psychiatry*, 58(3), 226–232.
+L. Hull *et al.*, "'Putting on my best normal': Social camouflaging in adults with autism spectrum conditions," *J. Autism Dev. Disord.*, vol. 47, no. 8, pp. 2519–2534, 2017.
 
-Hull, L., et al. (2017). "Putting on my best normal": Social camouflaging in adults with autism spectrum conditions. *Journal of Autism and Developmental Disorders*, 47(8), 2519–2534.
+L. Hull *et al.*, "Is social camouflaging associated with anxiety and depression in autistic adults?" *Mol. Autism*, vol. 12, p. 13, 2021, doi: 10.1186/s13229-021-00421-1.
 
-Hull, L., et al. (2021). Is social camouflaging associated with anxiety and depression in autistic adults? *Molecular Autism*, 12, 13. https://doi.org/10.1186/s13229-021-00421-1
+S. K. Kapp, R. Steward, L. Crane, D. Elliott, C. Elphick, E. Pellicano, and G. Russell, "'People should be allowed to do what they like': Autistic adults' views and experiences of stimming," *Autism*, vol. 23, no. 7, pp. 1782–1792, 2019, doi: 10.1177/1362361319829628.
 
-Kapp, S. K., Steward, R., Crane, L., Elliott, D., Elphick, C., Pellicano, E., and Russell, G. (2019). "People should be allowed to do what they like": Autistic adults' views and experiences of stimming. *Autism*, 23(7), 1782–1792. https://doi.org/10.1177/1362361319829628
+M. A. Kientz and W. Dunn, "A comparison of the performance of children with and without autism on the Sensory Profile," *Am. J. Occup. Ther.*, vol. 51, no. 7, pp. 530–537, 1997.
 
-Kientz, M. A., and Dunn, W. (1997). A comparison of the performance of children with and without autism on the Sensory Profile. *American Journal of Occupational Therapy*, 51(7), 530–537.
+R. L. Koegel and A. Covert, "The relationship of self-stimulation to learning in autistic children," *J. Appl. Behav. Anal.*, vol. 5, no. 4, pp. 381–387, 1972.
 
-Koegel, R. L., and Covert, A. (1972). The relationship of self-stimulation to learning in autistic children. *Journal of Applied Behavior Analysis*, 5(4), 381–387.
+H. Kupferstein, "Evidence of increased PTSD symptoms in autistics exposed to applied behavior analysis," *Adv. Autism*, vol. 4, no. 1, pp. 19–29, 2018.
 
-Kupferstein, H. (2018). Evidence of increased PTSD symptoms in autistics exposed to applied behavior analysis. *Advances in Autism*, 4(1), 19–29.
+M. Langen *et al.*, "Caudate nucleus volumes in autism," *Biol. Psychiatry* and *J. Child Psychol. Psychiatry*, 2009, 2014.
 
-Langen, M., et al. (2009, 2014). Caudate nucleus volumes in autism. *Biological Psychiatry* and *Journal of Child Psychology and Psychiatry*.
+R. P. Lawson, G. Rees, and K. J. Friston, "An aberrant precision account of autism," *Front. Hum. Neurosci.*, vol. 8, p. 302, 2014.
 
-Lawson, R. P., Rees, G., and Friston, K. J. (2014). An aberrant precision account of autism. *Frontiers in Human Neuroscience*, 8, 302.
+O. I. Lovaas, A. Litrownik, and R. Mann, "Response latencies to auditory stimuli in autistic children engaged in self-stimulatory behavior," *Behav. Res. Ther.*, vol. 9, no. 1, pp. 39–49, 1971.
 
-Lovaas, O. I., Litrownik, A., and Mann, R. (1971). Response latencies to auditory stimuli in autistic children engaged in self-stimulatory behavior. *Behaviour Research and Therapy*, 9(1), 39–49.
+J. J. McEachin, T. Smith, and O. I. Lovaas, "Long-term outcome for children with autism who received early intensive behavioral treatment," *Am. J. Ment. Retard.*, vol. 97, no. 4, pp. 359–372, 1993.
 
-McEachin, J. J., Smith, T., and Lovaas, O. I. (1993). Long-term outcome for children with autism who received early intensive behavioral treatment. *American Journal on Mental Retardation*, 97(4), 359–372.
+I. F. Morris, J. R. Sykes, E. R. Paulus, A. Dameh, A. Razzaque, L. Vander Esch, J. Gruenig, and P. D. Zelazo, "Beyond self-regulation: Autistic experiences and perceptions of stimming," *Autism Dev. Lang. Impair.*, 2025, doi: 10.1177/27546330241311096.
 
-Morris, I. F., Sykes, J. R., Paulus, E. R., Dameh, A., Razzaque, A., Vander Esch, L., Gruenig, J., and Zelazo, P. D. (2025). Beyond self-regulation: Autistic experiences and perceptions of stimming. *Autism and Developmental Language Impairments*. https://doi.org/10.1177/27546330241311096
+E. M. Ornitz and E. R. Ritvo, "Perceptual inconstancy in early infantile autism," *Arch. Gen. Psychiatry*, vol. 18, no. 1, pp. 76–98, 1968.
 
-Ornitz, E. M., and Ritvo, E. R. (1968). Perceptual inconstancy in early infantile autism. *Archives of General Psychiatry*, 18(1), 76–98.
+B. Pascual *et al.*, "Functional echolalia in autism speech: Verbal formulae and repeated prior utterances as communicative and cognitive strategies," *Front. Integr. Neurosci.*, vol. 17, 2023. [Online]. Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC9997079/
 
-Pascual, B., et al. (2023). Functional echolalia in autism speech: Verbal formulae and repeated prior utterances as communicative and cognitive strategies. *Frontiers in Integrative Neuroscience*, 17. https://pmc.ncbi.nlm.nih.gov/articles/PMC9997079/
+D. Pavăl, "A dopamine hypothesis of autism spectrum disorder," *Dev. Neurosci.*, vol. 39, no. 5, pp. 355–360, 2017.
 
-Pavăl, D. (2017). A dopamine hypothesis of autism spectrum disorder. *Developmental Neuroscience*, 39(5), 355–360.
+E. Pellicano and D. Burr, "When the world becomes 'too real': A Bayesian explanation of autistic perception," *Trends Cogn. Sci.*, vol. 16, no. 10, pp. 504–510, 2012.
 
-Pellicano, E., and Burr, D. (2012). When the world becomes "too real": A Bayesian explanation of autistic perception. *Trends in Cognitive Sciences*, 16(10), 504–510.
+B. M. Prizant, "Echolalia in autism: Assessment and intervention," *Semin. Speech Lang.*, vol. 4, no. 1, pp. 63–77, 1983.
 
-Prizant, B. M. (1983). Echolalia in autism: Assessment and intervention. *Seminars in Speech and Language*, 4(1), 63–77.
+B. M. Prizant and J. F. Duchan, "The functions of immediate echolalia in autistic children," *J. Speech Hear. Disord.*, vol. 46, no. 3, pp. 241–249, 1981.
 
-Prizant, B. M., and Duchan, J. F. (1981). The functions of immediate echolalia in autistic children. *Journal of Speech and Hearing Disorders*, 46(3), 241–249.
+N. A. J. Puts *et al.*, "GABA concentration in the left ventral premotor cortex associates with sensory hyper-responsiveness in autism spectrum disorders without intellectual disability," *Front. Neurosci.*, vol. 11, p. 482, 2017.
 
-Puts, N. A. J., et al. (2017). GABA concentration in the left ventral premotor cortex associates with sensory hyper-responsiveness in autism spectrum disorders without intellectual disability. *Frontiers in Neuroscience*, 11, 482.
+D. M. Raymaker *et al.*, "'Having all of your internal resources exhausted beyond measure and being left with no clean-up crew': Defining autistic burnout," *Autism Adulthood*, vol. 2, no. 2, pp. 132–143, 2020, doi: 10.1089/aut.2019.0079.
 
-Raymaker, D. M., et al. (2020). "Having all of your internal resources exhausted beyond measure and being left with no clean-up crew": Defining autistic burnout. *Autism in Adulthood*, 2(2), 132–143. https://doi.org/10.1089/aut.2019.0079
+S. J. Rogers *et al.*, "Sensory processing in children with and without autism spectrum disorders," *J. Autism Dev. Disord.*, vol. 33, no. 6, pp. 631–642, 2003.
 
-Rogers, S. J., et al. (2003). Sensory processing in children with and without autism spectrum disorders. *Journal of Autism and Developmental Disorders*, 33(6), 631–642.
+L. A. Sapey-Triomphe *et al.*, "Tactile hypersensitivity and GABAergic deficit in adults with autism spectrum disorder," *Front. Neurosci.*, vol. 13, p. 91, 2019.
 
-Sapey-Triomphe, L. A., et al. (2019). Tactile hypersensitivity and GABAergic deficit in adults with autism spectrum disorder. *Frontiers in Neuroscience*, 13, 91.
+H. S. Singer *et al.*, "The role of the cerebellum in repetitive behavior across species: Childhood stereotypies and deer mice," *Cerebellum*, vol. 21, pp. 423–436, 2021, doi: 10.1007/s12311-021-01301-3.
 
-Singer, H. S., et al. (2021). The role of the cerebellum in repetitive behavior across species: Childhood stereotypies and deer mice. *The Cerebellum*, 21, 423–436. https://doi.org/10.1007/s12311-021-01301-3
+S. D. Tomchek and W. Dunn, "Sensory processing in children with and without autism spectrum disorders," *Am. J. Occup. Ther.*, vol. 61, no. 2, pp. 190–200, 2007.
 
-Tomchek, S. D., and Dunn, W. (2007). Sensory processing in children with and without autism spectrum disorders. *American Journal of Occupational Therapy*, 61(2), 190–200.
-
-Zetler, N. K., et al. (2022). The relationship between sensory processing and repetitive behaviors in autism. *Autism Research*.
+N. K. Zetler *et al.*, "The relationship between sensory processing and repetitive behaviors in autism," *Autism Res.*, 2022.
 
 ### Books and monographs
 
-Bascom, J. (Ed.). (2012). *Loud hands: Autistic people, speaking*. Autistic Press.
+J. Bascom, Ed., *Loud Hands: Autistic People, Speaking*. Autistic Press, 2012.
 
-Grandin, T., and Scariano, M. (1986). *Emergence: Labeled autistic*. Arena Press.
+T. Grandin and M. Scariano, *Emergence: Labeled Autistic*. Arena Press, 1986.
 
-Price, D. (2022). *Unmasking autism: Discovering the new faces of neurodiversity*. Harmony/Penguin Random House.
+D. Price, *Unmasking Autism: Discovering the New Faces of Neurodiversity*. Harmony/Penguin Random House, 2022.
 
-Silberman, S. (2015). *NeuroTribes: The legacy of autism and the future of neurodiversity*. Avery/Penguin.
+S. Silberman, *NeuroTribes: The Legacy of Autism and the Future of Neurodiversity*. Avery/Penguin, 2015.
 
-Walker, N. (2021). *Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities*. Autonomous Press.
+N. Walker, *Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities*. Autonomous Press, 2021.
 
-Yergeau, M. R. (2018). *Authoring autism: On rhetoric and neurological queerness*. Duke University Press.
+M. R. Yergeau, *Authoring Autism: On Rhetoric and Neurological Queerness*. Duke University Press, 2018.
 
 ### Essays, advocacy, and community writing
 
-Baggs, M. (2007, January). *In my language* [Video]. YouTube. https://www.youtube.com/watch?v=JnylM1hI2jc
+M. Baggs, "In my language," YouTube, Jan. 2007. [Online]. Available: https://www.youtube.com/watch?v=JnylM1hI2jc
 
-Bascom, J. (2011, October). Quiet hands. *Just Stimming…* https://www.autistichoya.com/2011/10/quiet-hands.html
+J. Bascom, "Quiet hands," *Just Stimming…*, Oct. 2011. [Online]. Available: https://www.autistichoya.com/2011/10/quiet-hands.html
 
-Giwa Onaiwu, M., Brown, L. X. Z., and Ashkenazy, E. (Eds.). (2017). *All the weight of our dreams: On living racialized autism*. DragonBee Press.
+M. Giwa Onaiwu, L. X. Z. Brown, and E. Ashkenazy, Eds., *All the Weight of Our Dreams: On Living Racialized Autism*. DragonBee Press, 2017.
 
-Rivera, L. [Neurodivergent Rebel]. (2022, August). Autistic and neurodivergent stimming, fidgeting, and sensory seeking. *NeuroDivergent Rebel*. https://neurodivergentrebel.com
+L. Rivera (Neurodivergent Rebel), "Autistic and neurodivergent stimming, fidgeting, and sensory seeking," *NeuroDivergent Rebel*, Aug. 2022. [Online]. Available: https://neurodivergentrebel.com
 
-Walker, N. (2014). Neurodiversity: Some basic terms and definitions. *Neurocosmopolitanism*. https://neuroqueer.com/neurodiversity-terms-and-definitions/
+N. Walker, "Neurodiversity: Some basic terms and definitions," *Neurocosmopolitanism*, 2014. [Online]. Available: https://neuroqueer.com/neurodiversity-terms-and-definitions/
 
 ### Legal and policy documents
 
-American Psychiatric Association. (2013, 2022). *Diagnostic and statistical manual of mental disorders* (5th ed.; 5th ed., text rev.). APA Publishing.
+American Psychiatric Association, *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed., text rev. APA Publishing, 2022.
 
-Bottema-Beutel, K., Kapp, S. K., Lester, J. N., Sasson, N. J., and Hand, B. N. (2021). Avoiding ableist language: Suggestions for autism researchers. *Autism in Adulthood*, 3(1), 18–29.
+K. Bottema-Beutel, S. K. Kapp, J. N. Lester, N. J. Sasson, and B. N. Hand, "Avoiding ableist language: Suggestions for autism researchers," *Autism Adulthood*, vol. 3, no. 1, pp. 18–29, 2021.
 
-United Nations. (2017). *General comment No. 5 on living independently and being included in the community* (UN CRPD/C/GC/5). Committee on the Rights of Persons with Disabilities.
+United Nations, *General Comment No. 5 on Living Independently and Being Included in the Community*, UN CRPD/C/GC/5, Committee on the Rights of Persons with Disabilities, 2017.

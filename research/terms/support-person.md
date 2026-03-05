@@ -98,50 +98,50 @@ The most productive tension within the community is not whether to adopt the ter
 
 ### Books and monographs
 
-Kittay, E. F. (1999). *Love's labor: Essays on women, equality, and dependency*. Routledge.
+E. F. Kittay, *Love's Labor: Essays on Women, Equality, and Dependency*. Routledge, 1999.
 
-Oliver, M. (1990). *The politics of disablement*. Macmillan.
+M. Oliver, *The Politics of Disablement*. Macmillan, 1990.
 
-Piepzna-Samarasinha, L. L. (2018). *Care work: Dreaming disability justice*. Arsenal Pulp Press.
+L. L. Piepzna-Samarasinha, *Care Work: Dreaming Disability Justice*. Arsenal Pulp Press, 2018.
 
-Singer, J. (2017). *Neurodiversity: The birth of an idea*. Kindle Direct.
+J. Singer, *Neurodiversity: The Birth of an Idea*. Kindle Direct, 2017.
 
-Walker, N. (2021). *Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities*. Autonomous Press.
+N. Walker, *Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities*. Autonomous Press, 2021.
 
 ### Peer-reviewed articles and chapters
 
-Deci, E. L., and Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.
+E. L. Deci and R. M. Ryan, "The 'what' and 'why' of goal pursuits: Human needs and the self-determination of behavior," *Psychol. Inq.*, vol. 11, no. 4, pp. 227–268, 2000.
 
-Kittay, E. F. (2011). The ethics of care, dependence, and disability. *Ratio Juris*, 24(1), 49–58.
+E. F. Kittay, "The ethics of care, dependence, and disability," *Ratio Juris*, vol. 24, no. 1, pp. 49–58, 2011.
 
-Milton, D. E. M. (2012). On the ontological status of autism: The "double empathy problem." *Disability and Society*, 27(6), 883–887.
+D. E. M. Milton, "On the ontological status of autism: The 'double empathy problem,'" *Disabil. Soc.*, vol. 27, no. 6, pp. 883–887, 2012.
 
-Morris, S., and Turnbull, P. (2024). Care and the language of dependency: Terminological politics in disability services. *Scandinavian Journal of Disability Research*, 26(1).
+S. Morris and P. Turnbull, "Care and the language of dependency: Terminological politics in disability services," *Scand. J. Disabil. Res.*, vol. 26, no. 1, 2024.
 
-Wehmeyer, M. L. (2015). Causal agency theory. *Education and Training in Autism and Developmental Disabilities*, 50(3), 257–267.
+M. L. Wehmeyer, "Causal agency theory," *Educ. Train. Autism Dev. Disabil.*, vol. 50, no. 3, pp. 257–267, 2015.
 
-Wehmeyer, M. L., and Schwartz, M. (1998). The relationship between self-determination and quality of life for adults with mental retardation. *Education and Training in Mental Retardation and Developmental Disabilities*, 33(1), 3–12.
+M. L. Wehmeyer and M. Schwartz, "The relationship between self-determination and quality of life for adults with mental retardation," *Educ. Train. Ment. Retard. Dev. Disabil.*, vol. 33, no. 1, pp. 3–12, 1998.
 
 ### Advocacy and policy documents
 
-Autistic Self Advocacy Network (ASAN). (n.d.). Supported decision-making: Why the right to make choices with support matters. https://autisticadvocacy.org
+Autistic Self Advocacy Network, "Supported decision-making: Why the right to make choices with support matters," n.d. [Online]. Available: https://autisticadvocacy.org
 
-Autistic Self Advocacy Network (ASAN). (n.d.). Identity-first language. https://autisticadvocacy.org/about-asan/identity-first-language/
+Autistic Self Advocacy Network, "Identity-first language," n.d. [Online]. Available: https://autisticadvocacy.org/about-asan/identity-first-language/
 
-Mingus, M. (2011). Changing the framework: Disability justice. *Leaving Evidence*. https://leavingevidence.wordpress.com
+M. Mingus, "Changing the framework: Disability justice," *Leaving Evidence*, 2011. [Online]. Available: https://leavingevidence.wordpress.com
 
-Mingus, M. (2017). Access intimacy, interdependence, and disability justice [Paul K. Longmore Lecture]. San Francisco State University.
+M. Mingus, "Access intimacy, interdependence, and disability justice," Paul K. Longmore Lecture, San Francisco State University, 2017.
 
 ### Legal and regulatory frameworks
 
-Accessibility for Ontarians with Disabilities Act (AODA), S.O. 2005, c. 11. Ontario Customer Service Standard, O. Reg. 429/07 (definition of "support person").
+*Accessibility for Ontarians with Disabilities Act (AODA)*, S.O. 2005, c. 11; Ontario Customer Service Standard, O. Reg. 429/07.
 
-Americans with Disabilities Act of 1990, 42 U.S.C. § 12101 et seq.
+*Americans with Disabilities Act of 1990*, 42 U.S.C. § 12101 et seq.
 
-National Disability Insurance Scheme Act 2013 (Cth) (Australia).
+*National Disability Insurance Scheme Act 2013* (Cth) (Australia).
 
-Rehabilitation Act of 1973, 29 U.S.C. § 791 (amended regulations, January 2018, personal assistance services).
+*Rehabilitation Act of 1973*, 29 U.S.C. § 791, amended Jan. 2018 (personal assistance services).
 
-United Nations Convention on the Rights of Persons with Disabilities (UN CRPD), A/RES/61/106 (2006), Article 12 (Equal recognition before the law), Article 19 (Living independently and being included in the community).
+United Nations, *Convention on the Rights of Persons with Disabilities (UN CRPD)*, A/RES/61/106, 2006, Arts. 12, 19.
 
-United Nations Committee on the Rights of Persons with Disabilities. (2017). *General Comment No. 5: Article 19 — Living independently and being included in the community* (CRPD/C/GC/5).
+U.N. Committee on the Rights of Persons with Disabilities, *General Comment No. 5: Article 19 — Living Independently and Being Included in the Community*, CRPD/C/GC/5, 2017.
