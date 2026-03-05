@@ -3,7 +3,7 @@
 Knowledge base for RAG retrieval, grounding Unobscura's content development, frameworks, and organizational voice in neurodivergent-led scholarship.
 
 **Maintained by:** Claude (Cowork) + Bradley Coughlin
-**Last updated:** 2026-03-05
+**Last updated:** 2026-03-05 (rev 2)
 **Repo:** [bcoughlin/unobscura-rag](https://github.com/bcoughlin/unobscura-rag)
 
 ---
@@ -23,6 +23,7 @@ Terminological histories and deep-dives into specific language choices.
 
 | File | Description |
 |------|-------------|
+| `research/terms/stimming.md` | Comprehensive guide to self-stimulatory behavior: neuroscience, autistic-led scholarship, community history, and clinical critique. Covers stimming as sensory regulation, the harms of suppression, and the reclamation of the term by autistic communities. |
 | `research/terms/support-person.md` | How "support person" replaced "caregiver" — a half-century of disability rights philosophy traced through the IL movement, CRPD, NDIS, and neurodiversity paradigm. Includes critique from within the community. |
 
 ---

@@ -92,3 +92,56 @@ The term "support person" has not escaped scrutiny from the disability and neuro
 "Support person" is not merely a politer synonym for "caregiver." It is a **philosophical assertion** — that the disabled person is the agent, the relationship is collaborative, and the assistance enables rather than replaces self-direction. Its roots run through the independent living movement's insistence on consumer control, the social model's reframing of disability as social barrier rather than individual deficit, and the neurodiversity paradigm's rejection of pathology-based language. The UN CRPD has formalized "support person(s)" in its supported decision-making framework, and Australia's NDIS and Ontario's AODA have given it operational definitions. Yet the term's grassroots origins outpace its institutional adoption — most legal systems still default to "caregiver."
 
 The most productive tension within the community is not whether to adopt the term but **how to hold its promise of autonomy alongside the reality of interdependence.** The disability justice movement's insistence that no one is truly independent — and that collective care structures matter more than individual terminology — represents the frontier of this conversation. The term "support person" works. It also remains incomplete. That honest ambiguity may be precisely what makes it useful: it names a relationship still being negotiated, in a movement still defining what liberation looks like.
+---
+
+## References
+
+### Books and monographs
+
+Kittay, E. F. (1999). *Love's labor: Essays on women, equality, and dependency*. Routledge.
+
+Oliver, M. (1990). *The politics of disablement*. Macmillan.
+
+Piepzna-Samarasinha, L. L. (2018). *Care work: Dreaming disability justice*. Arsenal Pulp Press.
+
+Singer, J. (2017). *Neurodiversity: The birth of an idea*. Kindle Direct.
+
+Walker, N. (2021). *Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities*. Autonomous Press.
+
+### Peer-reviewed articles and chapters
+
+Deci, E. L., and Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.
+
+Kittay, E. F. (2011). The ethics of care, dependence, and disability. *Ratio Juris*, 24(1), 49–58.
+
+Milton, D. E. M. (2012). On the ontological status of autism: The "double empathy problem." *Disability and Society*, 27(6), 883–887.
+
+Morris, S., and Turnbull, P. (2024). Care and the language of dependency: Terminological politics in disability services. *Scandinavian Journal of Disability Research*, 26(1).
+
+Wehmeyer, M. L. (2015). Causal agency theory. *Education and Training in Autism and Developmental Disabilities*, 50(3), 257–267.
+
+Wehmeyer, M. L., and Schwartz, M. (1998). The relationship between self-determination and quality of life for adults with mental retardation. *Education and Training in Mental Retardation and Developmental Disabilities*, 33(1), 3–12.
+
+### Advocacy and policy documents
+
+Autistic Self Advocacy Network (ASAN). (n.d.). Supported decision-making: Why the right to make choices with support matters. https://autisticadvocacy.org
+
+Autistic Self Advocacy Network (ASAN). (n.d.). Identity-first language. https://autisticadvocacy.org/about-asan/identity-first-language/
+
+Mingus, M. (2011). Changing the framework: Disability justice. *Leaving Evidence*. https://leavingevidence.wordpress.com
+
+Mingus, M. (2017). Access intimacy, interdependence, and disability justice [Paul K. Longmore Lecture]. San Francisco State University.
+
+### Legal and regulatory frameworks
+
+Accessibility for Ontarians with Disabilities Act (AODA), S.O. 2005, c. 11. Ontario Customer Service Standard, O. Reg. 429/07 (definition of "support person").
+
+Americans with Disabilities Act of 1990, 42 U.S.C. § 12101 et seq.
+
+National Disability Insurance Scheme Act 2013 (Cth) (Australia).
+
+Rehabilitation Act of 1973, 29 U.S.C. § 791 (amended regulations, January 2018, personal assistance services).
+
+United Nations Convention on the Rights of Persons with Disabilities (UN CRPD), A/RES/61/106 (2006), Article 12 (Equal recognition before the law), Article 19 (Living independently and being included in the community).
+
+United Nations Committee on the Rights of Persons with Disabilities. (2017). *General Comment No. 5: Article 19 — Living independently and being included in the community* (CRPD/C/GC/5).
